@@ -2,7 +2,7 @@
 
 ## About <a name = "about"></a>
 
-This is starting project with the basic configuration for an express api using typescript.
+Starter for express project in typescript with some personal preferences
 
 ## Some notes
 
